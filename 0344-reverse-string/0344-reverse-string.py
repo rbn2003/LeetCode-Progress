@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: None Do not return anything, modify s in-place instead.
         """
 
-        m = len(s)
+        """m = len(s)
         result  = []
 
 
@@ -15,5 +15,7 @@ class Solution(object):
         for i in range(m):
             s[i] = result[i]
 
-        print(s)    
+        print(s)"""
+
+        return s.reverse()  
         
