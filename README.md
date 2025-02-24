@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rbn2003/LeetCode-Progress/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rbn2003/LeetCode-Progress/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rbn2003/LeetCode-Progress/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rbn2003/LeetCode-Progress/tree/master/0383-ransom-note) |
 | [0953-reverse-only-letters](https://github.com/rbn2003/LeetCode-Progress/tree/master/0953-reverse-only-letters) |
 | [1260-day-of-the-year](https://github.com/rbn2003/LeetCode-Progress/tree/master/1260-day-of-the-year) |
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-day-of-the-year](https://github.com/rbn2003/LeetCode-Progress/tree/master/1260-day-of-the-year) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/rbn2003/LeetCode-Progress/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
