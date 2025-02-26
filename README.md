@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/rbn2003/LeetCode-Progress/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/rbn2003/LeetCode-Progress/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/rbn2003/LeetCode-Progress/tree/master/0953-reverse-only-letters) |
 ## Math
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rbn2003/LeetCode-Progress/tree/master/0039-combination-sum) |
+| [0283-move-zeroes](https://github.com/rbn2003/LeetCode-Progress/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
 | ------- |
