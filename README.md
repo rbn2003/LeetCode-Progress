@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/rbn2003/LeetCode-Progress/tree/master/0263-ugly-number) |
 | [1260-day-of-the-year](https://github.com/rbn2003/LeetCode-Progress/tree/master/1260-day-of-the-year) |
 ## Sorting
 |  |
