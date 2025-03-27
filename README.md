@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rbn2003/LeetCode-Progress/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/rbn2003/LeetCode-Progress/tree/master/0039-combination-sum) |
 | [0283-move-zeroes](https://github.com/rbn2003/LeetCode-Progress/tree/master/0283-move-zeroes) |
 ## Backtracking
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rbn2003/LeetCode-Progress/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/rbn2003/LeetCode-Progress/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
