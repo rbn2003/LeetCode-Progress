@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/rbn2003/LeetCode-Progress/tree/master/0039-combination-sum) |
 | [0283-move-zeroes](https://github.com/rbn2003/LeetCode-Progress/tree/master/0283-move-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rbn2003/LeetCode-Progress/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rbn2003/LeetCode-Progress/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -97,8 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rbn2003/LeetCode-Progress/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/rbn2003/LeetCode-Progress/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rbn2003/LeetCode-Progress/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rbn2003/LeetCode-Progress/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/rbn2003/LeetCode-Progress/tree/master/0374-guess-number-higher-or-lower) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rbn2003/LeetCode-Progress/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
