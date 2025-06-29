@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rbn2003/LeetCode-Progress/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/rbn2003/LeetCode-Progress/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/rbn2003/LeetCode-Progress/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rbn2003/LeetCode-Progress/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rbn2003/LeetCode-Progress/tree/master/0383-ransom-note) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rbn2003/LeetCode-Progress/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rbn2003/LeetCode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
