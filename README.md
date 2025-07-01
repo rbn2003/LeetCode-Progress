@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rbn2003/LeetCode-Progress/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/rbn2003/LeetCode-Progress/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/rbn2003/LeetCode-Progress/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/rbn2003/LeetCode-Progress/tree/master/0046-permutations) |
 | [0283-move-zeroes](https://github.com/rbn2003/LeetCode-Progress/tree/master/0283-move-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rbn2003/LeetCode-Progress/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rbn2003/LeetCode-Progress/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rbn2003/LeetCode-Progress/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/rbn2003/LeetCode-Progress/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/rbn2003/LeetCode-Progress/tree/master/0046-permutations) |
 ## Linked List
 |  |
 | ------- |
